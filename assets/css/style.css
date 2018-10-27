@@ -1,0 +1,83 @@
+.card-header{
+  font-family: monospace;
+  
+  font-size: 80px;
+  color: rgb(224, 17, 86);
+  text-align: center;
+  font-style: oblique;
+  background-image: url("../images/crystal_bg.png");
+}
+
+
+.container{
+  background-color: black;
+  margin-top: 3%;
+  padding: 20px;
+}
+
+
+
+.card-text {
+  
+ text-align: left;
+  color:white;
+  font-size: 18px;
+  background-color: blueviolet;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+ 
+  
+}
+
+#random-area {
+  width: 200px;
+  height: 100px;
+  padding: 4px;
+  font-size: 3vw;
+  color: whitesmoke;
+  background-color:blueviolet;
+}
+
+#score-area {
+  width: 200px;
+  height: 80px;
+  padding: 4px;
+  font-size: 3vw;
+  color: ghostwhite;
+  background-color: blueviolet;
+}
+
+#score-title {
+  width: 200px;
+  padding: 4px;
+  margin-bottom: 10px;
+  color: white;
+  background-color: blueviolet;
+}
+
+.crystals-button {
+  display: inline;
+}
+
+.crystal-img {
+  width: 100px;
+  height: 100px;
+  
+}
+
+#score-number {
+  font-size: 3vw;
+}
+
+#win-area {
+  
+
+
+  width: 200px;
+  height: 100px;
+  padding: 4px;
+  font-size: 1vw;
+  color: ghostwhite;
+  background-color: blueviolet;
+  float: left;
+  clear: both;
+} 
